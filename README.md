@@ -1,2 +1,2 @@
 # python-explore
-Explore in Python
+Exploring in Python
